@@ -1,0 +1,2 @@
+OpenThread实现支持所有Thread网络层IPv6、6LoWPAN、IEEE 802.15.4和MAC安全，并创建一个设备之间没有单一故障点的网状网络。
+more:https://www.oschina.net/p/openthread
